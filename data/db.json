@@ -1,0 +1,74 @@
+{
+  "monsters": [
+    {
+      "name": "Frankelstein",
+      "id": 1,
+      "email": "franklin1@gmail.com"
+    },
+    {
+      "name": "Loch Ness",
+      "id": 2,
+      "email": "Lochness2@gmail.com"
+    },
+    {
+      "name": "BigFoot",
+      "id": 3,
+      "email": "bigfoot3@gmail.com"
+    },
+    {
+      "name": "Zoombie",
+      "id": 4,
+      "email": "zoombie4@gmail.com"
+    },
+    {
+      "name": "Beelzebub",
+      "id": 5,
+      "email": "beel5@gmail.com"
+    },
+    {
+      "name": "Chimera",
+      "id": 6,
+      "email": "cheem6@gmail.com"
+    },
+    {
+      "name": "Cyclops",
+      "id": 7,
+      "email": "cyclo7@gmail.com"
+    },
+    {
+      "name": "Drakon",
+      "id": 8,
+      "email": "drak8@gmail.com"
+    },
+    {
+      "name": "Hunchback",
+      "id": 9,
+      "email": "hunch9@gmail.com"
+    },
+    {
+      "name": "Minotaur",
+      "id": 10,
+      "email": "mino10@gmail.com"
+    },
+    {
+      "name": "Grover",
+      "id": 11,
+      "email": "grover11@gmail.com"
+    },
+    {
+      "name": "Gargoyle",
+      "id": 12,
+      "email": "gargoy12@gmail.com"
+    },
+    {
+      "name": "Goblins",
+      "id": 13,
+      "email": "goblin13@gmail.com"
+    },
+    {
+      "name": "Elmo",
+      "id": 14,
+      "email": "elmo14@gmail.com"
+    }
+  ]
+}
